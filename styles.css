@@ -1,0 +1,93 @@
+#toplogo {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: -100px;
+}
+#form {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.check {
+  --bs-btn-bg: #00aade;
+}
+#activelist {
+  background-color: #0d6efd;
+  color: white;
+}
+#mainlist {
+  color: black;
+  margin-left: 2px;
+  margin-right: 2px;
+}
+#caros {
+  height: 300px;
+}
+#lastline {
+  margin-bottom: -200px !important;
+}
+#lastbeforeline {
+  margin-top: -100px !important;
+}
+html,
+body {
+  margin: 0;
+}
+#navvs {
+  margin-top: -10px;
+  width: auto;
+}
+/* Chrome, Safari, Edge, Opera */
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+#contact {
+  margin-left: 10px;
+  margin-right: 10px;
+}
+#contact div {
+  margin-top: 25px;
+}
+#box {
+  height: 100px !important;
+}
+#innerbox {
+  position: relative;
+  top: -60px;
+}
+#box2 {
+  height: 200px !important;
+}
+#innerbox2 {
+  position: relative;
+  top: -50px;
+}
+#booticon {
+  position: relative;
+  top: -3px;
+}
+#widthprob {
+  max-width: 100%;
+}
+#mainlist:hover {
+  background-color: #86e5ff;
+  color: black;
+}
+#starting {
+  margin-top: 100px;
+}
+#footeritems:hover {
+  background-color: grey;
+  color: red;
+  border-radius: 4px;
+}
+#collapseExample {
+  margin-top: 10px;
+}
+.smallgap {
+  margin-top: 10px;
+}
