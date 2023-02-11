@@ -142,3 +142,6 @@ input::-webkit-inner-spin-button {
   white-space: nowrap;
   -webkit-overflow-scrolling: touch;
 }
+#phone {
+  color: white !important;
+}
